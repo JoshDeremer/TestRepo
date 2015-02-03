@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Create a text 2. Added to line 1.
-=======
-Create a text 2.
-I'm going to make changes to this on the new branch.
->>>>>>> origin/Changing-Text2
